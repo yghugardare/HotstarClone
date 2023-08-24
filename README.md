@@ -18,7 +18,7 @@ Follow these steps to set up and run the project locally:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/disney-hotstar-clone.git
+   git clone https://github.com/yghugardare/HotstarClone.git
    cd disney-hotstar-clone
    ```
 
