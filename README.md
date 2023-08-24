@@ -1,7 +1,7 @@
 # Disney Hotstar Clone
 
 This project is a clone of Disney Hotstar, created using React, Vite, Tailwind CSS, Axios, and React Icons. It fetches movie data from [The Movie Database (TMDB)](https://www.themoviedb.org/) API and features a slider component for navigation.
-Check out the website here - [Disney Hotstar Clone](https://hotstar-clone-eight.vercel.app/).
+Check out the website here - [Disney Hotstar Clone](https://hotstar-clone-yash-g.vercel.app/).
 
 ## Table of Contents
 
@@ -19,7 +19,7 @@ Follow these steps to set up and run the project locally:
 
    ```bash
    git clone https://github.com/yghugardare/HotstarClone.git
-   cd disney-hotstar-clone
+   cd HotstarClone
    ```
 
 2. Install dependencies using npm:
@@ -53,7 +53,7 @@ Follow these steps to set up and run the project locally:
 
 ## Usage
 
-1. Visit the deployed app on Vercel: [Disney Hotstar Clone](https://hotstar-clone-eight.vercel.app/).
+1. Visit the deployed app on Vercel: [Disney Hotstar Clone](https://hotstar-clone-yash-g.vercel.app/).
 2. Upon visiting the app, you'll be presented with a list of Disney movies fetched from [TMDB](https://www.themoviedb.org/).
 3. Navigate through the movies using the slider arrows.
 4. Enjoy the seamless experience with hidden scrollbars.
