@@ -1,8 +1,8 @@
-
 # Disney Hotstar Clone
 
 This project is a clone of Disney Hotstar, created using React, Vite, Tailwind CSS, Axios, and React Icons. It fetches movie data from [The Movie Database (TMDB)](https://www.themoviedb.org/) API and features a slider component for navigation.
 Check out the website here - [Disney Hotstar Clone](https://hotstar-clone-eight.vercel.app/).
+
 ## Table of Contents
 
 - [Installation](#installation)
@@ -51,7 +51,6 @@ Follow these steps to set up and run the project locally:
 - Axios
 - React Icons
 
-
 ## Usage
 
 1. Visit the deployed app on Vercel: [Disney Hotstar Clone](https://hotstar-clone-eight.vercel.app/).
@@ -62,5 +61,3 @@ Follow these steps to set up and run the project locally:
 ## Credits
 
 This project was inspired by the Disney Hotstar streaming platform and utilizes data from [The Movie Database (TMDB)](https://www.themoviedb.org/).
-
-
